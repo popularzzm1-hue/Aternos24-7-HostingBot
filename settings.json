@@ -9,7 +9,7 @@
     "ip": "hardblood-NaKS.aternos.me",
     "port": 19338,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.gg/Atqq5eMw76",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect":false,
