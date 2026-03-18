@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "hardblood-NaKS.aternos.me",
-    "port": 19338,
+    "ip": "gamingwithshadow.aternos.me:50288",
+    "port": 50288,
     "version": "",
     "try-creative": true
   },
