@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "server afk bot",
+    "username": "chaloserver",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "hardblood-NaKS.aternos.me",
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 20,
       "messages": [
         "join the discord https://discord.gg/Atqq5eMw76",
         "you can do anything",
