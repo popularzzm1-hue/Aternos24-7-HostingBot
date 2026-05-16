@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "server afk bot",
+    "username": "Nicloserverbot",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "hardblood-NaKS.aternos.me",
-    "port": 19338,
+    "ip": "QuartzLantern.aternos.me",
+    "port": 55755,
     "version": "",
     "try-creative": true
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "join the discord https://discord.gg/Atqq5eMw76",
+        "join the discord https://discord.gg/RsexrScCaZ",
         "you can do anything",
         "but you cant hack or you got banned or jail"
       ]
@@ -49,7 +49,7 @@
   "movement": {
     "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
